@@ -1,0 +1,31 @@
+places:
+  - name: Tokyo
+    description: The capital city of Japan, known for its modern architecture and vibrant culture.
+    attractions:
+      - Tokyo Tower
+      - Shibuya Crossing
+      - Senso-ji Temple
+  - name: Kyoto
+    description: Famous for its classical Buddhist temples, as well as gardens, imperial palaces, and traditional wooden houses.
+    attractions:
+      - Kinkaku-ji (Golden Pavilion)
+      - Fushimi Inari-taisha
+      - Arashiyama Bamboo Grove
+  - name: Osaka
+    description: Known for modern architecture, nightlife, and hearty street food.
+    attractions:
+      - Osaka Castle
+      - Universal Studios Japan
+      - Dotonbori
+  - name: Hiroshima
+    description: Known for its historical significance and the Peace Memorial Park.
+    attractions:
+      - Hiroshima Peace Memorial Museum
+      - Atomic Bomb Dome
+      - Miyajima Island
+  - name: Sapporo
+    description: Famous for its beer, skiing, and the annual Sapporo Snow Festival.
+    attractions:
+      - Sapporo Clock Tower
+      - Odori Park
+      - Moerenuma Park
