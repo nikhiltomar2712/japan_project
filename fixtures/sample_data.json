@@ -1,0 +1,40 @@
+{
+  "sample_data": [
+    {
+      "id": 1,
+      "name": "Tokyo",
+      "description": "The capital city of Japan, known for its modern architecture and vibrant culture.",
+      "population": 13929286,
+      "area": 2191,
+      "attractions": [
+        "Tokyo Tower",
+        "Shibuya Crossing",
+        "Senso-ji Temple"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kyoto",
+      "description": "Famous for its classical Buddhist temples, as well as gardens, imperial palaces, and traditional wooden houses.",
+      "population": 1474570,
+      "area": 827.9,
+      "attractions": [
+        "Kinkaku-ji",
+        "Fushimi Inari-taisha",
+        "Arashiyama Bamboo Grove"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Osaka",
+      "description": "Known for modern architecture, nightlife, and hearty street food.",
+      "population": 2715000,
+      "area": 223,
+      "attractions": [
+        "Osaka Castle",
+        "Universal Studios Japan",
+        "Dotonbori"
+      ]
+    }
+  ]
+}
